@@ -1,10 +1,8 @@
 ---
 title: "Contact Information"
-excerpt: "Contact"
+title: "Publications"
+permalink: /contact/
 author_profile: true
-redirect_from: 
-  - /contact/
-  - /contact.html
 ---
 
 * Address: E1580F, CODA, Georgia Institute of Technology, Atlanta, GA
