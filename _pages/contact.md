@@ -1,6 +1,5 @@
 ---
 title: "Contact Information"
-title: "Publications"
 permalink: /contact/
 author_profile: true
 ---

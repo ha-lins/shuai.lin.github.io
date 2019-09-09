@@ -14,15 +14,12 @@ Education
 * Ph.D in Computer Science, Georgia Institute of Technology, 2019 - Present 
 * B.E. in Computer Science and Technology, Zhejiang University, 2015 - 2019
 
- 
-Skills
+Skills and Interests
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Technology and Language Skills:
+  * Programming Languages: C/C++, Python, Verilog, Matlab, Labview, SQL, C#, Lex/Yacc.
+  * Development Skills: Pytorch, Tensorflow, OpenCV, QT. 
+* Piano (Level 10 Certificate), Basketball.
 
 Publications
 ======
