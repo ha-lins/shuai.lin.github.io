@@ -1,6 +1,6 @@
 ---
 title: "Contact Information"
-
+permalink: /contact/
 author_profile: true
 ---
 
@@ -10,4 +10,4 @@ author_profile: true
 
 * Email: [jiaaochen@gatech.edu](mailto:jiaaochen@gatech.edu)
 
-* Website: [www.jiaaochen.com](https://www.jiaaochen.com)
+* Website: [www.jiaaochen.com](www.jiaaochen.com)
