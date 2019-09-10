@@ -4,7 +4,7 @@ permalink: /publication/
 author_profile: true
 ---
 
-You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+You can also find my articles on <u><a href="{{ author.googlescholar }}">my Google Scholar profile</a>.</u>
 
 ## 2019
 * Let’s Make Your Request More Persuasive: Modeling Persuasive Strategies via Semi Supervised Neural Nets on Crowdfunding Platforms     
