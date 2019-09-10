@@ -4,7 +4,7 @@ permalink: /experience/
 author_profile: true
 ---
 Education
-========
+=========
 * Ph.D. in Computer Science, College of Computing at Georgia Institute of Technology, 2019.8 - present
 * B.E. in Computer Science and Technology, Zhejiang University, 2015.9 - 2019.7
 
