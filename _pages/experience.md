@@ -4,21 +4,21 @@ permalink: /experience/
 author_profile: true
 ---
 Education
-======
+========
 * Ph.D. in Computer Science, College of Computing at Georgia Institute of Technology, 2019.8 - present
 * B.E. in Computer Science and Technology, Zhejiang University, 2015.9 - 2019.7
 
 Research Experience
-======
+========
 * Research Intern, School of Computer Science, Carnegie Mellon University, 2018.9 - 2019.3
 * Visiting Researcher, Department of Computer Science, University of California, Davis, 2018.6 - 2018.8
 
 Teaching
-======
+========
 * Teaching Assistant for *Computer Organization*, Department of Computer Science, Zhejiang University, 2018.3 - 2018.6
 
 Selected Awards
-======
+========
 * Honorable Mention at MCM/ICM Contest, 2017
 * Academic Physics Contest at Zhejiang University, fourth place, 2017
 * ACEE Honor Class at Chu Konchen Honors College, Zhejiang University (40/6,000), 2016
