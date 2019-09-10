@@ -12,6 +12,6 @@ Diyi Yang\*, **Jiaao Chen\***, Zichao Yang, Dan Jurafsky, and Eduard Hovy
 NAACL, 2019, oral [pdf](https://www.aclweb.org/anthology/N19-1364)    
 
 * _Incorporating Structured Commonsense Knowledge in Story Completion_     
-**Jiaao Chen**, Jianshu Chen and Zhou Yu
+**Jiaao Chen**, Jianshu Chen and Zhou Yu      
 AAAI, 2019 [pdf](https://arxiv.org/abs/1811.00625)     
 
