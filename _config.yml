@@ -84,7 +84,7 @@ author:
   avatar           : "J.png"
   bio              : "PhD in Computer Science at Georgia Institute of Technology"
   location         : "Atlanta, Georgia, USA"
-  employer         :
+  employer         : "Georgia Institute of Technology"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Pi9IVvUAAAAJ&hl=en"
   email            : "jiaaochen@gatech.edu"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/jiaao_chen"
+  twitter          : "jiaao_chen"
   vine             :
   weibo            :
   xing             :
