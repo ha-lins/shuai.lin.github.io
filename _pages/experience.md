@@ -1,8 +1,12 @@
 ---
-title: "Experience"
 permalink: /experience/
+title: "Experience"
 author_profile: true
 ---
+
+## Locations of key files/directories
+
+* Basic config options: _config.yml
 
 ## Education
 
