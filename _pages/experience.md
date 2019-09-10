@@ -3,11 +3,6 @@ permalink: /experience/
 title: "Experience"
 author_profile: true
 ---
-
-## Locations of key files/directories
-
-* Basic config options: _config.yml
-
 ## Education
 
 * Ph.D. in Computer Science, College of Computing at Georgia Institute of Technology, 2019.8 - present
