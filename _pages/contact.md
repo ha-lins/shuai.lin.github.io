@@ -1,6 +1,9 @@
 ---
 title: "Contact Information"
 permalink: /contact.html
+redirect_from: 
+    - /contact.html
+    - /contact/
 author_profile: true
 ---
 

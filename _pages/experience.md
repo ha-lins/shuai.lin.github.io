@@ -1,5 +1,8 @@
 ---
 permalink: /experience.html
+redirect_from: 
+    - /experience.html
+    - /experience/
 title: "Experience"
 author_profile: true
 ---
