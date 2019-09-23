@@ -1,7 +1,5 @@
 ---
-permalink: 
-    - /experience 
-    - /experience.html
+permalink: /experience.html
 title: "Experience"
 author_profile: true
 ---

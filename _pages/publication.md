@@ -1,8 +1,6 @@
 ---
 title: "Publications"
-permalink: 
-    - /publication/
-    - /publication.html
+permalink: /publication.html
 author_profile: true
 ---
 

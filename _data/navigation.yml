@@ -4,15 +4,15 @@ main:
     url: /about/
     
   - title: "Publications"
-    url: /publication/
+    url: /publication.html
 
   - title: "Experience"
-    url: /experience/
+    url: /experience.html
     
   - title: "CV"
     url: /CV_2019.pdf
 
   - title: "Contact"
-    url: /contact/
+    url: /contact.html
 
 
