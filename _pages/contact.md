@@ -1,6 +1,8 @@
 ---
 title: "Contact Information"
-permalink: /contact.html
+permalink: 
+    - /contact/
+    - /contact.html
 author_profile: true
 ---
 
