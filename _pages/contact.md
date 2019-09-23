@@ -12,4 +12,4 @@ author_profile: true
 
 * Email: [jiaaochen@gatech.edu](mailto:jiaaochen@gatech.edu)
 
-* Website: _www.jiaaochen.com_
+* Website: [jiaaochen.com](http://www.jiaaochen.com)
