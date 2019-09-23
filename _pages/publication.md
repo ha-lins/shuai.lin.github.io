@@ -1,6 +1,7 @@
 ---
 permalink: /publication.html
 redirect_from: 
+  - /publication
   - /publication/
 title: "Publications"
 author_profile: true
