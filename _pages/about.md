@@ -6,6 +6,8 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+  - /portfolio/
+  - /portfolio.html
 ---
 
 Hello, I'm Jiaao Chen!
