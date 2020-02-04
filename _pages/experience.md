@@ -16,7 +16,7 @@ author_profile: true
 * Visiting Researcher, Department of Computer Science, University of California, Davis,  2018.6 - 2018.8
 
 ## Teaching
-
+* Teaching Assistant for [*NLP: CS-4650/7650*](https://www.cc.gatech.edu/classes/AY2020/cs7650_spring/) , College of Computing, Georgia Tech,  2020.1 - 2020.5
 * Teaching Assistant for *Computer Organization*, Department of Computer Science, Zhejiang University,  2018.3 - 2018.6
 
 ## Selected Awards
