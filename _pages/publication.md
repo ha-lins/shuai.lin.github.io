@@ -11,7 +11,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 ## 2020
 * _Semi-supervised Models via Data Augmentation for Classifying Interactive Affective Responses._    
-**Jiaao Chen\***, Yuwei Wu\*, and Diyi Yang
+**Jiaao Chen\***, Yuwei Wu\*, and Diyi Yang      
 AAAI Workshop on Affective Content Analysis, 2020, [code](https://github.com/GT-LST/AAAI_CLF)    
 
 ## 2019
