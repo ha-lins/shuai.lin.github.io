@@ -10,7 +10,11 @@ author_profile: true
 You can also find my articles on <u><a href="https://scholar.google.com/citations?user=Pi9IVvUAAAAJ&hl=en">my Google Scholar profile</a>.</u>
 
 ## 2020
-* _Semi-supervised Models via Data Augmentation for Classifying Interactive Affective Responses._    
+* _Linguistically-Informed Interpolation of Hidden Space for Semi-Supervised Text Classification_
+**Jiaao Chen**, Zichao Yang, and Diyi Yang
+ACL, 2020
+
+* _Semi-supervised Models via Data Augmentation for Classifying Interactive Affective Responses_    
 **Jiaao Chen\***, Yuwei Wu\*, and Diyi Yang      
 AAAI Workshop on Affective Content Analysis, 2020, [code](https://github.com/GT-LST/AAAI_CLF)    
 
