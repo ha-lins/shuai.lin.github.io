@@ -10,7 +10,7 @@ author_profile: true
 You can also find my articles on <u><a href="https://scholar.google.com/citations?user=Pi9IVvUAAAAJ&hl=en">my Google Scholar profile</a>.</u>
 
 ## 2020
-* _Linguistically-Informed Interpolation of Hidden Space for Semi-Supervised Text Classification_        
+* _MixText: Linguistically-Informed Interpolation of Hidden Space for Semi-Supervised Text Classification_        
 **Jiaao Chen**, Zichao Yang, and Diyi Yang       
 ACL, 2020    
 
