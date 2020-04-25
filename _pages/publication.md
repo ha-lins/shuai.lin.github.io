@@ -16,7 +16,7 @@ ACL, 2020
 
 * _Semi-supervised Models via Data Augmentation for Classifying Interactive Affective Responses_    
 **Jiaao Chen\***, Yuwei Wu\*, and Diyi Yang      
-AAAI Workshop on Affective Content Analysis, 2020, [code](https://github.com/GT-LST/AAAI_CLF)    
+AAAI Workshop on Affective Content Analysis, 2020, [pdf](https://arxiv.org/abs/2004.10972), [code](https://github.com/GT-LST/AAAI_CLF)    
 
 ## 2019
 * _Let’s Make Your Request More Persuasive: Modeling Persuasive Strategies via Semi Supervised Neural Nets on Crowdfunding Platforms_    
