@@ -12,11 +12,11 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 ## 2020
 * _MixText: Linguistically-Informed Interpolation of Hidden Space for Semi-Supervised Text Classification_        
 **Jiaao Chen**, Zichao Yang, and Diyi Yang       
-ACL, 2020    
+ACL, 2020  [pdf](https://arxiv.org/abs/2004.12239), [code](https://github.com/GT-SALT/MixText)
 
 * _Semi-supervised Models via Data Augmentation for Classifying Interactive Affective Responses_    
 **Jiaao Chen\***, Yuwei Wu\*, and Diyi Yang      
-AAAI Workshop on Affective Content Analysis, 2020, [pdf](https://arxiv.org/abs/2004.10972), [code](https://github.com/GT-SALT/AAAI_CLF)    
+AAAI Workshop on Affective Content Analysis, 2020 [pdf](https://arxiv.org/abs/2004.10972), [code](https://github.com/GT-SALT/AAAI_CLF)    
 
 ## 2019
 * _Let’s Make Your Request More Persuasive: Modeling Persuasive Strategies via Semi Supervised Neural Nets on Crowdfunding Platforms_    
