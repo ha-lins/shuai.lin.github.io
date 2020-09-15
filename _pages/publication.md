@@ -10,7 +10,7 @@ author_profile: true
 You can also find my articles on <u><a href="https://scholar.google.com/citations?user=Pi9IVvUAAAAJ&hl=en">my Google Scholar profile</a>.</u>
 
 ## 2020
-*_Multi-View Sequence-to-Sequence Models with Conversational Structure for Abstractive Dialogue Summarization_        
+* _Multi-View Sequence-to-Sequence Models with Conversational Structure for Abstractive Dialogue Summarization_        
 **Jiaao Chen**, Diyi Yang      
 EMNLP, 2020
 
