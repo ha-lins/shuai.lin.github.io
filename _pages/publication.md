@@ -10,6 +10,18 @@ author_profile: true
 You can also find my articles on <u><a href="https://scholar.google.com/citations?user=Pi9IVvUAAAAJ&hl=en">my Google Scholar profile</a>.</u>
 
 ## 2020
+*_Multi-View Sequence-to-Sequence Models with Conversational Structure for Abstractive Dialogue Summarization_        
+**Jiaao Chen**, Diyi Yang      
+EMNLP, 2020
+
+* _Local Additivity Based Data Augmentation for Semi-supervised NER_        
+**Jiaao Chen**, Zhenghui Wang, Ran Tian, Zichao Yang and Diyi Yang        
+EMNLP, 2020
+
+* _Examining the Ordering of Rhetorical Strategies in Persuasive Requests_        
+Omar Shaikh, **Jiaao Chen**, Jon Saad-Falcon, Polo Chau and Diyi Yang        
+EMNLP Findings, 2020
+
 * _MixText: Linguistically-Informed Interpolation of Hidden Space for Semi-Supervised Text Classification_        
 **Jiaao Chen**, Zichao Yang, and Diyi Yang       
 ACL, 2020  [pdf](https://arxiv.org/abs/2004.12239), [code](https://github.com/GT-SALT/MixText)
