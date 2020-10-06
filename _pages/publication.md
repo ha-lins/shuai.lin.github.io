@@ -12,11 +12,11 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 ## 2020
 * _Multi-View Sequence-to-Sequence Models with Conversational Structure for Abstractive Dialogue Summarization_        
 **Jiaao Chen**, Diyi Yang      
-EMNLP, 2020
+EMNLP, 2020 [pdf](https://arxiv.org/abs/2010.01672), [code](https://github.com/GT-SALT/Multi-View-Seq2Seq)
 
 * _Local Additivity Based Data Augmentation for Semi-supervised NER_        
-**Jiaao Chen**, Zhenghui Wang, Ran Tian, Zichao Yang and Diyi Yang        
-EMNLP, 2020
+**Jiaao Chen\***, Zhenghui Wang\*, Ran Tian, Zichao Yang and Diyi Yang        
+EMNLP, 2020 [pdf](https://arxiv.org/abs/2010.01677), [code](https://github.com/GT-SALT/LADA)
 
 * _Examining the Ordering of Rhetorical Strategies in Persuasive Requests_        
 Omar Shaikh, **Jiaao Chen**, Jon Saad-Falcon, Polo Chau and Diyi Yang        
