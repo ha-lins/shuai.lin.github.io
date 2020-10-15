@@ -20,7 +20,7 @@ EMNLP, 2020 [pdf](https://arxiv.org/abs/2010.01677), [code](https://github.com/G
 
 * _Examining the Ordering of Rhetorical Strategies in Persuasive Requests_        
 Omar Shaikh, **Jiaao Chen**, Jon Saad-Falcon, Polo Chau and Diyi Yang        
-EMNLP Findings, 2020
+EMNLP Findings, 2020 [pdf](https://arxiv.org/pdf/2010.04625.pdf), [code](https://github.com/GT-SALT/Persuasive-Orderings)
 
 * _MixText: Linguistically-Informed Interpolation of Hidden Space for Semi-Supervised Text Classification_        
 **Jiaao Chen**, Zichao Yang, and Diyi Yang       

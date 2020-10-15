@@ -19,6 +19,9 @@ author_profile: true
 * Teaching Assistant for [*NLP: CS-4650/7650*](https://www.cc.gatech.edu/classes/AY2020/cs7650_spring/) , College of Computing, Georgia Tech,  2020.1 - 2020.5
 * Teaching Assistant for *Computer Organization*, Department of Computer Science, Zhejiang University,  2018.3 - 2018.6
 
+## Service Experience
+* Peer Reviewing: AAAI 2020, EMNLP 2020
+
 ## Selected Awards
 
 * Outstanding Undergraduate Thesis, Zhejiang University, 2019
