@@ -7,7 +7,7 @@ title: "Publications"
 author_profile: true
 ---
 
-You can also find my articles on <u><a href="https://scholar.google.com/citations?user=Pi9IVvUAAAAJ&hl=en">my Google Scholar profile</a>.</u>
+You can also find my articles on <u><a href='https://www.semanticscholar.org/author/Jiaao-Chen/47739850'>my Semantic Scholar Profile</a></u> or <u><a href="https://scholar.google.com/citations?user=Pi9IVvUAAAAJ&hl=en">my Google Scholar profile</a>.</u>
 
 ## 2020
 * _Multi-View Sequence-to-Sequence Models with Conversational Structure for Abstractive Dialogue Summarization_        
