@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jiaao Chen"
+title                    : "Shuai Lin"
 title_separator          : "-"
-name                     : &name "Jiaao Chen"
-description              : &description "PhD student at Georgia Institute of Technology"
-url                      : "https://www.cc.gatech.edu/~jchen896" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Shuai Lin"
+description              : &description "Graduate student at Sun Yat-sen University"
+#url                      : "https://www.cc.gatech.edu/~jchen896" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "jiaaoc.github.io"
+repository               : "shuai.lin.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jiaao Chen"
+  name             : "Shuai Lin"
   avatar           : "j2.png"
-  bio              : "Ph.D. in Computer Science at Georgia Institute of Technology"
-  location         : "Atlanta, Georgia, USA"
-  employer         : "Georgia Institute of Technology"
+  bio              : "Graduate student at Sun Yat-sen University"
+  location         : "Guangzhou, China"
+  employer         : "Sun Yat-sen University"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=Pi9IVvUAAAAJ&hl=en"
-  email            : "jiaaochen@gatech.edu"
+  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=AfxzfNAAAAAJ"
+  email            : "shuailin97@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "jiaaoc"
+  github           : "ha-lins"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "jiaao-chen-4997b0116"
+  linkedin         : "https://www.linkedin.com/in/shuai-lin-289759168/"
   orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "jiaao_chen"
+#  twitter          : "jiaao_chen"
   vine             :
   weibo            :
   xing             :
